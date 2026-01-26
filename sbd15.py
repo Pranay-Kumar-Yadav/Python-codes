@@ -1,4 +1,4 @@
-#delete object properties
+#delete  an object 
 class person:
     def __init__(self, name, age):
       self.name = name
