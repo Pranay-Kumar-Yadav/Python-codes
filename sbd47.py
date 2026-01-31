@@ -37,7 +37,7 @@ p1 = person(7, "Alex", "Robbins", 30)
 connection = sqlite3.connect('mydata.db')
 cursor = connection.cursor()
 
-cursor.execute("Select * FROM persons")
+cursor.execute("SELECT * FROM persons")
 results = cursor.fetcha11()
 print(results)
 

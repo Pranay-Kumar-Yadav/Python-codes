@@ -14,4 +14,4 @@ t1.start()
 
 x = input("do you want to trigger the event? (y/n)\n")
 if x == "y":
-    event.set ()lambda
+    event.set ()

@@ -1,4 +1,4 @@
-# to calculate factorial of number in python
+# prime or not
 num = int(input("enter a number :"))
 count = 0
 fact = 1
